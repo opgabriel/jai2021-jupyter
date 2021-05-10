@@ -2,7 +2,7 @@
 
 [JAI]: https://csbc.ufsc.br/eventos/jai/
 
-# Ciência de Dados com Reprodutibilidade usando Jupyter ![GitHub repo size](https://img.shields.io/github/repo-size/opgabriel/jai2021-jupyter) [GitHub repo downloads](https://img.shields.io/github/downloads/opgabriel/jai2021-jupyter/total)
+# Ciência de Dados com Reprodutibilidade usando Jupyter ![GitHub repo size](https://img.shields.io/github/repo-size/opgabriel/jai2021-jupyter)
 
 
 > [40ª Jornada de Atualização em Informática – JAI 2021][JAI]
