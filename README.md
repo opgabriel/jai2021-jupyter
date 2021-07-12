@@ -2,7 +2,7 @@
 
 [JAI]: https://csbc.ufsc.br/eventos/jai/
 
-# Ciência de Dados com Reprodutibilidade usando Jupyter ![GitHub repo size](https://img.shields.io/github/repo-size/opgabriel/jai2021-jupyter)
+# Ciência de Dados com Reprodutibilidade usando Jupyter
 
 
 > [40ª Jornada de Atualização em Informática – JAI 2021][JAI]
@@ -11,7 +11,6 @@
 
 Ciência de Dados tornou-se um tópico de pesquisa emergente na Ciência da Computação devido ao crescente interesse em extrair conhecimento de diferentes fontes de dados. Nesse contexto, o Jupyter Notebook vem se consolidando como uma das principais ferramentas utilizadas por cientistas de dados para realizar análises exploratórias de dados de forma rápida e direta, com alto potencial de reprodução de código. Dessa forma, o objetivo deste capítulo é apresentar o Jupyter com reprodutibilidade para a realização de projetos em Ciência de Dados. O conteúdo é organizado para estudantes e profissionais com alguma experiência em programação. Em particular, primeiro apresentamos o Jupyter e seu uso geral para desenvolver soluções para Ciência de Dados. Em seguida, apresentamos tópicos avançados do Jupyter e  abordamos maneiras de promover a ciência aberta. Para concluir, este JAI apresenta uma visão geral de Ciência de Dados com Jupyter Notebooks combinando conceitos e fundamentos teóricos com exemplos práticos e dados do mundo real.
 
----
 
 ## Conteúdo
 - [Jupyter Básico]
@@ -28,7 +27,6 @@ Ciência de Dados tornou-se um tópico de pesquisa emergente na Ciência da Comp
 [Jupyter Avançado]: https://github.com/opgabriel/jai2021-jupyter/tree/main/6.Jupyter.Avancado
 [Ciência Aberta com Jupyter]: https://github.com/opgabriel/jai2021-jupyter/tree/main/7.Ciencia.Aberta
 
----
 
 ## Conjunto de Dados
 O conjunto de dados utilizado refere-se a sucesso na indústria da música, uma das mais dinâmicas e importantes no cenário do entretenimento mundial. Especificamente, utilizamos dados provenientes do [Spotify](https://developer.spotify.com/), o serviço de *streaming* de áudio mais popular do mundo, que reúne mais de 345 milhões de usuários em 178 países e territórios.
@@ -43,7 +41,6 @@ O conjunto de dados utilizado refere-se a sucesso na indústria da música, uma 
 [Artists]: https://github.com/opgabriel/jai2021-jupyter/raw/main/dataset/spotify_artists_info_complete.tsv
 [Artists (edited)]: https://github.com/opgabriel/jai2021-jupyter/raw/main/dataset/spotify_artists_info_edited.csv
 
----
 
 ## Equipe
 
@@ -53,7 +50,6 @@ O conjunto de dados utilizado refere-se a sucesso na indústria da música, uma 
 * **Danilo B. Seufitelli** - Universidade Federal de Minas Gerais (UFMG)
 * **Mirella M. Moro** - Universidade Federal de Minas Gerais (UFMG)
 
----
 
 ## Referência
 
@@ -72,7 +68,6 @@ O conjunto de dados utilizado refere-se a sucesso na indústria da música, uma 
   }
   ``` 
 
----
   
 ## Agradecimentos
 
