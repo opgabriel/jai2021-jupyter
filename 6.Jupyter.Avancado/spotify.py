@@ -2,36 +2,45 @@ from IPython.core.magic import Magics, magics_class, line_magic, line_cell_magic
 from IPython.core.magic_arguments import parse_argstring, magic_arguments, argument
 from IPython.display import HTML
 
-EMBED_URL = ('<iframe src="https://open.spotify.com/embed/{type_}/{id}" width="{w}" height="{h}"' 
-             ' frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>')
-    
+EMBED_URL = (
+    '<iframe src="https://open.spotify.com/embed/{type}/{id}"'
+    ' width="{width}" height="{height}"'
+    ' frameborder="0" allowtransparency="true"'
+    ' allow="encrypted-media"></iframe>'
+)
+
 # Define classe de mágicas
 @magics_class
 class SpotifyMagics(Magics):
-    # Define mágica de linha
-    @line_magic
-    def artist(self, line):
-        """Cria player para artista do spotify"""
-        # Executa mágica de célula para exibir HTML
-        kernel = self.shell
-        return HTML(EMBED_URL.format(
-            id=line, type_="artist", w=360, h=180
-        ))
-                                     
+    
+    def embed_player(self, fn, line, cell, type_):
+        args = parse_argstring(fn, line)
+        ids = args.ids or cell.split('\n')
+        result = []
+        for aid in ids:
+            if aid:
+                result.append(EMBED_URL.format(
+                    type=type_, id=aid,
+                    width=args.width, height=args.height
+                ))
+        return HTML("<br>".join(result))
+    
     @magic_arguments()
-    @argument("song_ids", nargs="*", help="Lista de músicas")
+    @argument("ids", nargs="*", help="Ids de artistas")
+    @argument("-w", "--width", type=int, default=360, help="Largura")
+    @argument("-h", "--height", type=int, default=180, help="Altura")
+    @line_cell_magic
+    def artist(self, line, cell=""):
+        return self.embed_player(self.artist, line, cell, 'artist')
+        
+    @magic_arguments()
+    @argument("ids", nargs="*", help="Ids de músicas")
     @argument("-w", "--width", type=int, default=300, help="Largura")
     @argument("-h", "--height", type=int, default=80, help="Altura")
     @line_cell_magic
     def track(self, line, cell=""):
-        """Cria player para música do spotify"""
-        args = parse_argstring(self.track, line)
-        # Usa lista de ids do parâmetro ou linhas da célula
-        ids = args.song_ids or cell.split("\n")
-        return HTML("<br>".join(EMBED_URL.format(
-            id=song_id, type_="track", w=args.width, h=args.height
-        ) for song_id in ids if song_id))
+        return self.embed_player(self.track, line, cell, 'track')
         
 def load_ipython_extension(kernel):
-    # Cadastra mágicas
+    # Registra mágicas
     kernel.register_magics(SpotifyMagics)
