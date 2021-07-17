@@ -7,7 +7,7 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/opgabriel/jai2021-jupyter)
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opgabriel/jai2021-jupyter/master?urlpath=lab/tree/index.ipynb)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opgabriel/jai2021-jupyter/main?urlpath=lab/tree/index.ipynb)
 
 
 ## Resumo
