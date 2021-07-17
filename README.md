@@ -5,6 +5,9 @@
 
 > [40ª Jornada de Atualização em Informática – JAI 2021][JAI]
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/opgabriel/jai2021-jupyter)
+
+
 ## Resumo
 
 Ciência de Dados tornou-se um tópico de pesquisa emergente na Ciência da Computação devido ao crescente interesse em extrair conhecimento de diferentes fontes de dados. Nesse contexto, o Jupyter Notebook vem se consolidando como uma das principais ferramentas utilizadas por cientistas de dados para realizar análises exploratórias de dados de forma rápida e direta, com alto potencial de reprodução de código. Dessa forma, o objetivo deste capítulo é apresentar o Jupyter com reprodutibilidade para a realização de projetos em Ciência de Dados. O conteúdo é organizado para estudantes e profissionais com alguma experiência em programação. Em particular, primeiro apresentamos o Jupyter e seu uso geral para desenvolver soluções para Ciência de Dados. Em seguida, apresentamos tópicos avançados do Jupyter e  abordamos maneiras de promover a ciência aberta. Para concluir, este JAI apresenta uma visão geral de Ciência de Dados com Jupyter Notebooks combinando conceitos e fundamentos teóricos com exemplos práticos e dados do mundo real.
