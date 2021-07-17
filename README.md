@@ -5,9 +5,8 @@
 
 > [40ª Jornada de Atualização em Informática – JAI 2021][JAI]
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/opgabriel/jai2021-jupyter)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opgabriel/jai2021-jupyter/main?urlpath=lab/tree/Index.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opgabriel/jai2021-jupyter//blob/main/Index.ipynb]
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opgabriel/jai2021-jupyter/main?urlpath=lab/tree/Index.ipynb)
 
 
 ## Resumo
