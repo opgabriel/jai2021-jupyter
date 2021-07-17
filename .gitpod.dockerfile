@@ -13,7 +13,6 @@ RUN rm Anaconda3-2021.05-Linux-x86_64.sh
 ENV PATH=$PATH:$HOME/anaconda3
 ENV PATH=$PATH:$HOME/anaconda3/bin
 RUN conda install conda
-RUN ["/bin/bash", "-c", ". /home/gitpod/anaconda3/etc/profile.d/conda.sh && conda activate base && pip install -r requirements.txt"]
 RUN conda init
 ENV jupynb="jupyter notebook --NotebookApp.allow_origin=\'$(gp url 8888)\' --ip='*' --NotebookApp.token='' --NotebookApp.password=''"
 ENV jupylab="jupyter lab --NotebookApp.allow_origin=\'$(gp url 8889)\' --ip='*' --NotebookApp.token='' --NotebookApp.password=''"

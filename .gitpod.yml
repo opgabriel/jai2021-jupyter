@@ -10,3 +10,4 @@ ports:
 tasks:
 - command: conda init
 - command: conda activate base
+- init: . /home/gitpod/anaconda3/etc/profile.d/conda.sh && conda activate base && pip install -r requirements.txt
