@@ -15,19 +15,13 @@ Ciência de Dados tornou-se um tópico de pesquisa emergente na Ciência da Comp
 
 
 ## Conteúdo
-- [Jupyter Básico]
-- [Preparação de Dados para Ciência]
-- [Ciência de Dados Básica]
-- [Visualização de Dados Científicos]
-- [Jupyter Avançado]
-- [Ciência Aberta com Jupyter]
-
-[Jupyter Básico]: https://github.com/opgabriel/jai2021-jupyter/tree/main/2.Jupyter.Basico
-[Preparação de Dados para Ciência]: https://github.com/opgabriel/jai2021-jupyter/tree/main/3.Preparacao
-[Ciência de Dados Básica]: https://github.com/opgabriel/jai2021-jupyter/tree/main/4.Ciencia.de.Dados
-[Visualização de Dados Científicos]: https://github.com/opgabriel/jai2021-jupyter/tree/main/5.Visualizacao
-[Jupyter Avançado]: https://github.com/opgabriel/jai2021-jupyter/tree/main/6.Jupyter.Avancado
-[Ciência Aberta com Jupyter]: https://github.com/opgabriel/jai2021-jupyter/tree/main/7.Ciencia.Aberta
+1. Introdução - Slides
+2. [Jupyter Básico](2.Basico/2.1.Estrutura.Geral.ipynb)
+3. [Preparação de Dados para Ciência](3.Preparacao/3.1.Importacao.Dados.ipynb)
+4. [Integração, Transformação, Redução](4.Transformacao/4.1.Integracao.ipynb)
+5. [Ciência de Dados](5.Ciencia.de.Dados/5.1.Analise.Exploratoria.ipynb)
+6. [Jupyter Avançado](6.Jupyter.Avancado/6.1.IPython.ipynb)
+7. [Ciência Aberta](https://docs.google.com/presentation/d/e/2PACX-1vQtbj03kNvO7EEFc3cgDgu4gPpYoXlUTofMX0qFdmuybxuomo5WDSFkkjb5AHOgFmPFLVyI8AFplui8/pub?start=false&loop=false&delayms=3000)
 
 
 ## Conjunto de Dados
