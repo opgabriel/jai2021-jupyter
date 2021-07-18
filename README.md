@@ -56,7 +56,9 @@ O conjunto de dados utilizado refere-se a sucesso na indústria da música, uma 
               Danilo B. Seufitelli and 
               Mirella M. Moro},
     booktitle = {Jornada de Atualização em Informática 2021}
-    pages = {},
+    pages = {11--59},
+    doi = {10.5753/sbc.6757.3.1},
+    url = {https://doi.org/10.5753/sbc.6757.3.1},
     publisher = {SBC},
     year = {2021}
   }
