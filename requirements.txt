@@ -13,5 +13,4 @@ python-Levenshtein==0.12.2
 jupyterlab-widgets==1.0.0
 plotly==4.14.3
 cufflinks==0.17.3
-nbslide==0.1.1
 retrolab==0.2.2
