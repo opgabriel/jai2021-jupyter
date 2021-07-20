@@ -5,7 +5,26 @@
 
 > [40ª Jornada de Atualização em Informática – JAI 2021][JAI]
 
+
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opgabriel/jai2021-jupyter/main?urlpath=lab/tree/Index.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opgabriel/jai2021-jupyter//blob/main/Index.ipynb)
+
+<details>
+  <summary>⏰ Horário</summary>
+  <br>
+  📅 20 de Julho
+  <br><br>
+  🕘 09:00 - 12:00  | 🕟 16:30 - 19:00
+  <br>
+</details>
+
+<details>
+  <summary>🗂️ Arquivos</summary>
+  <br>
+  📄 [Texto do curso](https://sol.sbc.org.br/livros/index.php/sbc/catalog/view/67/292/544-1)
+  <br><br>
+  👨‍💻 [Slides do curso](slides_apresentação.pdf)
+  <br>
+</details>
 
 ## Resumo
 
@@ -13,7 +32,7 @@ Ciência de Dados tornou-se um tópico de pesquisa emergente na Ciência da Comp
 
 
 ## Conteúdo
-1. Introdução - Slides
+1. [Introdução](https://docs.google.com/presentation/d/e/2PACX-1vQsPIAB1LIlRXSHM8TNRo5SAHAB7WKStfIOvmWxBBe8tR7sTZwbeDcrgiiDd346PwQnCJK_QbW9PRsi/pub?start=false&loop=false&delayms=3000)
 2. [Jupyter Básico](2.Basico/2.1.Estrutura.Geral.ipynb)
 3. [Preparação de Dados para Ciência](3.Preparacao/3.1.Importacao.Dados.ipynb)
 4. [Integração, Transformação, Redução](4.Transformacao/4.1.Integracao.ipynb)
