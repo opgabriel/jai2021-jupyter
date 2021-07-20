@@ -4,6 +4,10 @@
 
 
 > [40ª Jornada de Atualização em Informática – JAI 2021][JAI]
+>
+>📄 [Texto do curso](https://sol.sbc.org.br/livros/index.php/sbc/catalog/view/67/292/544-1)
+>
+>👨‍💻 [Slides do curso](slides_apresentação.pdf)
 
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opgabriel/jai2021-jupyter/main?urlpath=lab/tree/Index.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opgabriel/jai2021-jupyter//blob/main/Index.ipynb)
@@ -14,15 +18,6 @@
   📅 20 de Julho
   <br><br>
   🕘 09:00 - 12:00  | 🕟 16:30 - 19:00
-  <br>
-</details>
-
-<details>
-  <summary>🗂️ Arquivos</summary>
-  <br>
-  📄 [Texto do curso](https://sol.sbc.org.br/livros/index.php/sbc/catalog/view/67/292/544-1)
-  <br><br>
-  👨‍💻 [Slides do curso](slides_apresentação.pdf)
   <br>
 </details>
 
