@@ -15,7 +15,7 @@
   <summary>⏰ Horário</summary>
   <br>
   📅 20 de Julho
-  <br>
+  <br><br>
   🕘 09:00 - 12:00  | 🕟 16:30 - 19:00
   <br>
 </details>
@@ -24,7 +24,7 @@
   <summary>🗂️ Arquivos</summary>
   <br>
   📄 [Texto do curso](https://sol.sbc.org.br/livros/index.php/sbc/catalog/view/67/292/544-1)
-  <br>
+  <br><br>
   👨‍💻 [Slides do curso](slides_apresentação.pdf)
   <br>
 </details>
