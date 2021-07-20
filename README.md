@@ -1,4 +1,4 @@
-<img src="logo_icon.png" align="right" alt="csbc-logo" style="width: 50px;" /> 
+<img src="logo_icon.png" align="right"/> 
 
 [JAI]: https://csbc.ufsc.br/eventos/jai/
 
