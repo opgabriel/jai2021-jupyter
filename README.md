@@ -1,5 +1,3 @@
-<img src="logo_icon.png" align="right"/> 
-
 [JAI]: https://csbc.ufsc.br/eventos/jai/
 
 # Ciência de Dados com Reprodutibilidade usando Jupyter
