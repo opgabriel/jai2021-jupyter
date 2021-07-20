@@ -9,12 +9,25 @@
 >
 > 👨‍💻 [Slides do curso](slides_apresentação.pdf)
 
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opgabriel/jai2021-jupyter/main?urlpath=lab/tree/Index.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opgabriel/jai2021-jupyter//blob/main/Index.ipynb)
+
 <details>
   <summary>ℹ️ Horário</summary>
-  📅 20 de Julho | 🕘 09:00 - 12:00  | 🕟 16:30 - 19:00
+  <br>
+  📅 20 de Julho
+  <br>
+  🕘 09:00 - 12:00  | 🕟 16:30 - 19:00
+  <br>
 </details>
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opgabriel/jai2021-jupyter/main?urlpath=lab/tree/Index.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opgabriel/jai2021-jupyter//blob/main/Index.ipynb)
+<details>
+  <summary>🗂️ Arquivos</summary>
+  <br>
+  📄 [Texto do curso](https://sol.sbc.org.br/livros/index.php/sbc/catalog/view/67/292/544-1)
+  <br>
+  👨‍💻 [Slides do curso](slides_apresentação.pdf)
+  <br>
+</details>
 
 ## Resumo
 
