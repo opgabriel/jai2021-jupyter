@@ -1,4 +1,4 @@
-<img src="logo_icon.png" align="right" alt="csbc-logo" style="width: 100px;" /> 
+<img src="logo_icon.png" align="right" alt="csbc-logo" style="width: 50px;" /> 
 
 [JAI]: https://csbc.ufsc.br/eventos/jai/
 
@@ -9,11 +9,11 @@
 >
 > 📅 20 de Julho
 >
-> 🕘 09:00 - 12:00
+> 🕘 09:00 - 12:00  
 >
 > 🕟 16:30 - 19:00
 
----
+
 
 >
 > 📄 [Texto do curso](https://sol.sbc.org.br/livros/index.php/sbc/catalog/view/67/292/544-1)
