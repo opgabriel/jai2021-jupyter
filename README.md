@@ -53,10 +53,24 @@ O conjunto de dados utilizado refere-se a sucesso na indústria da música, uma 
 ## Equipe
 
 * **João Felipe Pimentel** - Universidade Federal Fluminense (UFF)
+  * *jpimentel@ic.uff.br*
 * **Gabriel P. Oliveira** - Universidade Federal de Minas Gerais (UFMG)
+  * *gabrielpoliveira@dcc.ufmg.br*
+  * *[webpage][page1]*
 * **Mariana O. Silva** - Universidade Federal de Minas Gerais (UFMG)
+  * *mariana.santos@dcc.ufmg.br*
+  * *[webpage][page2]*
 * **Danilo B. Seufitelli** - Universidade Federal de Minas Gerais (UFMG)
+  * *daniloboechat@dcc.ufmg.br*
+  * *[webpage][page3]*
 * **Mirella M. Moro** - Universidade Federal de Minas Gerais (UFMG)
+  * *mirella@dcc.ufmg.br*
+  * *[webpage][page4]*
+
+[page1]: http://homepages.dcc.ufmg.br/~gabrielpoliveira/
+[page2]: http://homepages.dcc.ufmg.br/~mariana.santos/
+[page3]: http://homepages.dcc.ufmg.br/~daniloboechat/
+[page4]: http://homepages.dcc.ufmg.br/~mirella/
 
 
 ## Referência
